@@ -1,0 +1,11 @@
+D:\ITEA\pr1\bin\Debug\netcoreapp3.1\pr1.exe
+D:\ITEA\pr1\bin\Debug\netcoreapp3.1\pr1.deps.json
+D:\ITEA\pr1\bin\Debug\netcoreapp3.1\pr1.runtimeconfig.json
+D:\ITEA\pr1\bin\Debug\netcoreapp3.1\pr1.runtimeconfig.dev.json
+D:\ITEA\pr1\bin\Debug\netcoreapp3.1\pr1.dll
+D:\ITEA\pr1\bin\Debug\netcoreapp3.1\pr1.pdb
+D:\ITEA\pr1\obj\Debug\netcoreapp3.1\pr1.csprojAssemblyReference.cache
+D:\ITEA\pr1\obj\Debug\netcoreapp3.1\pr1.AssemblyInfoInputs.cache
+D:\ITEA\pr1\obj\Debug\netcoreapp3.1\pr1.AssemblyInfo.cs
+D:\ITEA\pr1\obj\Debug\netcoreapp3.1\pr1.dll
+D:\ITEA\pr1\obj\Debug\netcoreapp3.1\pr1.pdb
